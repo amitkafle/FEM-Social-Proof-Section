@@ -1,0 +1,27 @@
+// Variables
+$primary-color-magenta: hsl(300, 43%, 22%);
+$primary-color-pink: hsl(333, 80%, 67%);
+
+$neutral-color-dark-magenta: hsl(303, 10%, 53%);
+$neutral-color-light-magenta: hsl(300, 24%, 96%);
+$neutral-color-white: hsl(0, 0%, 100%);
+
+$body-font-size: 93.75%;
+$font-family: Spartan, sans-serif;
+
+//Base
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $font-family;
+  font-size: $body-font-size;
+}
+
+//Main CSS

@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-using-html-and-css-ZgrkvJQQ8)
+- Live Site URL: [Github Pages](https://amitkafle.github.io/FEM-Social-Proof-Section/)
 
 ### My process
 ### Built with
